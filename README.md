@@ -12,6 +12,8 @@ To reprogram the badge:
 
 4. Install the Adafruit_SSD1306 Adafruit_GFX libraries.
 
-5. Press and hold in the center of the left wagon wheel while powering down and powering on the badge to get it into programming mode.
+5. Clone this repo into the ~/Arduino/ directory, and open it.
 
-6. Hit the upload button on the arduino SDK.
+6. Press and hold in the center of the left wagon wheel while powering down and powering on the badge to get it into programming mode.
+
+7. Hit the upload button on the arduino SDK.
